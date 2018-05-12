@@ -1,0 +1,31 @@
+_repo: My-First-Book---13-the-experiences-of-Walter-Besant-James-Payn-W.-Clark-Russell-Grant-Allen-H__33148
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33148-h/images/ill_cover.jpg
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2010-07-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33148'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors, English -- Biography'
+- !lcsh 'Authorship'
+- !lcc 'PN'
+title: "My First Book:\r\nthe experiences of Walter Besant, James Payn, W. Clark Russell,\
+  \ Grant Allen, Hall Caine, George R. Sims, Rudyard Kipling, A. Conan Doyle, M.E.\
+  \ Braddon, F.W. Robinson, H. Rider Haggard, R.M. Ballantyne, I. Zangwill, Morley\
+  \ Roberts, David Christie Murray, Marie Corelli, Jerome K. Jerome, John Strange\
+  \ Winter, Bret Harte, \"Q.\", Robert Buchanan, Robert Louis Stevenson, with an introduction\
+  \ by Jerome K. Jerome."
+url: http://www.gutenberg.org/ebooks/33148
